@@ -33,7 +33,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B9zeUvdrDSAqgQBsAfXsVyQ%3D%3D)  
+- 💼 [LinkedIn] https://www.linkedin.com/in/deep-83188b194/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKjg5ETX4Sg%2BWSJVKrmgn3g%3D%3D
 - 📧 Email: deep895751@gmail.com
 - 💻 GitHub: [DeepshikhaT22]
 
