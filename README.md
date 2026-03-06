@@ -26,7 +26,7 @@
 
 ## 📄 Resume & Portfolio
 
-- 📄 [Download My Resume (https://1drv.ms/b/c/8010df6ea1d340d6/EQGXiRsXxxNDo5OpWl-kSlQBkUsdxZ5IzAQ6KftdSlNTSA?e=FJzCbd)]()  
+- 📄 [Download My Resume (https://drive.google.com/file/d/12_qHP0xcqScpPFdTumLq3LN87dSOIzV2/view?usp=sharing)  
 - 🌐 Portfolio (coming soon!)
 
 ---
